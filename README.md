@@ -46,3 +46,17 @@ I'm a Chemical Engineer with a MBA in Project Management focused on agile method
 <br />
 
 #
+<!-- future projects session
+### 🌟 Highlighted Projects
+
+Aqui estão alguns dos meus projetos favoritos que merecem destaque:
+
+### 🔹 [Nome do Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve sobre o que esse projeto faz e por que é especial.
+
+### 🔹 [Nome do Projeto 2](https://github.com/seu-usuario/projeto2)
+Outra descrição breve destacando funcionalidades ou tecnologias usadas.
+
+### 🔹 [Nome do Projeto 3](https://github.com/seu-usuario/projeto3)
+Mais um projeto incrível que você quer mostrar ao mundo!
+-->
