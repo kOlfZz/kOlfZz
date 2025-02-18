@@ -19,11 +19,13 @@ I'm a Chemical Engineer with a MBA in Project Management focused on agile method
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-carlos-arantes-06b669194/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/JSibq6F.png"/></a>
+  <a href="mailto:oarantesjc@gmail.com"><img src="https://img.icons8.com/?size=100&id=of3VL9FKzJuz&format=png&color=FFFFFF" alt="Send e-mail" width="50"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/701137286963789884" alt="Discord" title="kOlfZz"><img width="32px" src="https://imgur.com/qGIQSGW.png"/></a>
+  <a href="https://www.linkedin.com/in/joão-carlos-arantes-06b669194/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/JSibq6F.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/jooarantes_/ alt="Instagram" title="Instagram"><img width="32px" src="https://imgur.com/v2vc2NV.png"/></a/>
+  <a href="https://discord.com/users/701137286963789884"><img src="https://img.icons8.com/?size=100&id=8m4RUswIAdJZ&format=png&color=FFFFFF" alt="Discord" width="50"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/jooarantes_/ alt="Instagram" title="Instagram"><img width="50px" src="https://imgur.com/v2vc2NV.png"/></a/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
