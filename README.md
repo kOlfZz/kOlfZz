@@ -51,7 +51,7 @@ I'm a Chemical Engineer with a MBA in Project Management focused on agile method
 
 Aqui estão alguns dos meus projetos favoritos que merecem destaque:
 
-### 🔹 [Análise de Produtos de Supermercado]([https://github.com/seu-usuario/projeto1](https://github.com/kOlfZz/kOlfZz/blob/main/Profissao_Cientista_de_Dados_M13_Projeto.ipynb))
+### 🔹 [Análise de Produtos de Supermercado](https://github.com/kOlfZz/kOlfZz/blob/main/Profissao_Cientista_de_Dados_M13_Projeto.ipynb)
 Um projeto obrigatório para a conclusão do módulo de Estatística Básica da EBAC. Nesse estudo de caso hipotético foi 
 utilizado funções básicas de estatísticas e ferramentas de DataVisualization para retirar insights a respeito de produtos
 de um supermercado do Chile.
