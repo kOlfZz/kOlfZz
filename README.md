@@ -56,9 +56,10 @@ Um projeto obrigatório para a conclusão do módulo de Estatística Básica da 
 utilizado funções básicas de estatísticas e ferramentas de DataVisualization para retirar insights a respeito de produtos
 de um supermercado do Chile.
 
+<!--
 ### 🔹 [Nome do Projeto 2](https://github.com/seu-usuario/projeto2)
 Outra descrição breve destacando funcionalidades ou tecnologias usadas.
 
 ### 🔹 [Nome do Projeto 3](https://github.com/seu-usuario/projeto3)
 Mais um projeto incrível que você quer mostrar ao mundo!
-
+-->
